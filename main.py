@@ -1,6 +1,5 @@
 import click
 import random
-import pandas as pd
 from pyfiglet import Figlet
 from termcolor import colored, cprint
 import imagenet
